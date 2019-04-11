@@ -9,8 +9,21 @@
     </style>
 
     <style name="newStyle">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
 
-
+    <style name="btnstyle">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:layout_width">198dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:layout_marginLeft">4dp</item>
 
     </style>
 </resources>
